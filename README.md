@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with opensource
 - 💬 Ask me about programming
-- 📫 How to reach me: you can't
+- 📫 How to reach me: 
 - ⚡ Fun fact: I'm using linux
 
