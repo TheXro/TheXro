@@ -8,8 +8,12 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and Java
 - 👯 I’m looking to collaborate on projects
+- 🔭 I’m currently working on my programming skills
+- ❤️ I'm also a opensource enthusiast
 
+
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheXro&theme=tokyonight&show_icons=true)
 
 
