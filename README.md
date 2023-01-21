@@ -14,6 +14,6 @@ Here are some ideas to get you started:-->
 - ❤️ I'm also a opensource enthusiast
 
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheXro&theme=default)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheXro&theme=tokyonight)
 
 
