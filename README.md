@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my github profile
-![Banner](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg)
+![Banner](https://github.com/TheXro/TheXro/blob/44b991f48842648d7f141710af2c886b08830e84/profilebanneravatar.jpg)
 
 
 
