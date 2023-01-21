@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my github profile
-![Banner](https://github.com/TheXro/TheXro/blob/44b991f48842648d7f141710af2c886b08830e84/profilebanneravatar.jpg)
+![Banner](https://github.com/TheXro/TheXro/blob/ab2b3ccdd246988854087b7a66531e506e12ac98/github-header-image.png)
 
 
 
