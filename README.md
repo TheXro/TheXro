@@ -14,6 +14,6 @@ Here are some ideas to get you started:-->
 - ❤️ I'm also a opensource enthusiast
 
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheXro&theme=tokyonight&show_icons=true)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheXro&theme=default)
 
 
