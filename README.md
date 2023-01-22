@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Web Development and Java
 - 👯 I’m looking to collaborate on projects
 - 🔭 I’m currently working on my programming skills
-- ❤️ I'm also a opensource enthusiast
 
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheXro&theme=tokyonight)
