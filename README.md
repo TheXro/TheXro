@@ -8,9 +8,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning Web Development and Java
+- 🌱 I’m currently learning JavaSript and Java
 - 👯 I’m looking to collaborate on projects
-- 🔭 I’m currently working on my programming skills
+- 🔭 I’m currently making as many webapps as possible.
 
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheXro&theme=tokyonight)
