@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
       <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
         <a href=""><img alt="Tailwind" src="https://custom-icon-badges.demolab.com/badge/tailwind-007396.svg?logo=tailwind&logoColor=white"></a>
-<!--       <a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> -->
+      <a href=""><img alt="React" src="https://img.shields.io/badge/React-43853D.svg?logo=react&logoColor=white"></a>
 </p>
 
 
