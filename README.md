@@ -53,5 +53,6 @@ Here are some ideas to get you started:-->
 <!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
   </p>
 
+## Currently Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s7iw1dg89pjueom4z1jcp2owi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
