@@ -1,5 +1,7 @@
-### Hi there 👋 Welcome to my github profile
+### Hi there 👋 
+
 ![Banner](https://github.com/TheXro/TheXro/blob/ab2b3ccdd246988854087b7a66531e506e12ac98/github-header-image.png)
+
 
 
 
@@ -51,11 +53,16 @@ Here are some ideas to get you started:-->
 
 <!-- GitHub Readme Streak Stats - https://github.com/TheXro/github-readme-streak-stats -->
   <p>
-<!--     <a href="https://github.com/TheXro/github-readme-streak-stats">
+    <a href="https://github.com/TheXro/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TheXro's streak" src="https://streak-stats.demolab.com/?user=TheXro&theme=monokai-metallian&hide_border=true"/>
-    </a> -->
+    </a>
 <!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
   </p>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=thexro)
 
 ## Currently Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s7iw1dg89pjueom4z1jcp2owi&cover_image=true&theme=novatorem&show_offline=false&background_color=3d3846&interchange=true&bar_color=241f31&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=s7iw1dg89pjueom4z1jcp2owi&redirect=true)
