@@ -60,6 +60,24 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
+
+```rust
+From: 01 October 2023 - To: 18 June 2024
+
+Total Time: 105 hrs 11 mins
+
+JavaScript       64 hrs 35 mins  >>>>>>>>>>>>>>>----------   60.82 %
+HTML             10 hrs 31 mins  >>-----------------------   09.91 %
+CSS              9 hrs 7 mins    >>-----------------------   08.59 %
+C                5 hrs 16 mins   >------------------------   04.97 %
+TypeScript       4 hrs 12 mins   >------------------------   03.96 %
+JSON             3 hrs 5 mins    >------------------------   02.92 %
+EJS              1 hr 42 mins    -------------------------   01.61 %
+Java             1 hr 30 mins    -------------------------   01.42 %
+Python           1 hr 27 mins    -------------------------   01.38 %
+Bash             1 hr 7 mins     -------------------------   01.06 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
