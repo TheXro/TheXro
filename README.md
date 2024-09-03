@@ -85,7 +85,9 @@ C                5 hrs 45 mins   █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=thexro)
+![](https://komarev.com/ghpvc/?username=thexro
 
 ## Currently Listening to...
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s7iw1dg89pjueom4z1jcp2owi&cover_image=true&theme=novatorem&show_offline=false&background_color=3d3846&interchange=true&bar_color=241f31&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=s7iw1dg89pjueom4z1jcp2owi&redirect=true)
+[![spotify-github-profile](
+https://spotify-github-profile.kittinanx.com/api/view?uid=s7iw1dg89pjueom4z1jcp2owi&cover_image=true&theme=novatorem&show_offline=false&background_color=3d3846&interchange=true&bar_color=241f31&bar_color_cover=false)](
+https://spotify-github-profile.kittinanx.com/api/view?uid=s7iw1dg89pjueom4z1jcp2owi&redirect=true)
