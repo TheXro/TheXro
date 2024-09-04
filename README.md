@@ -85,7 +85,7 @@ C                5 hrs 45 mins   █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=thexro
+![](https://komarev.com/ghpvc/?username=thexro)
 
 ## Currently Listening to...
 [![spotify-github-profile](
