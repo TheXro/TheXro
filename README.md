@@ -72,7 +72,7 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-
+<!--
 ```rust
 Total Time: 252 hrs 3 mins
 
@@ -82,7 +82,7 @@ TypeScript       12 hrs 51 mins  █▒░░░░░░░░░░░░░�
 HTML             12 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 Java             9 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
