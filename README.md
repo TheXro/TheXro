@@ -72,17 +72,17 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-<!--
-```rust
-Total Time: 252 hrs 3 mins
 
-JavaScript       177 hrs 15 mins █████████████████▒░░░░░░░   69.06 %
-CSS              15 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-TypeScript       12 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-HTML             12 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Java             9 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+```rust
+Total Time: 252 hrs 18 mins
+
+JavaScript       177 hrs 17 mins █████████████████▒░░░░░░░   68.97 %
+CSS              16 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+TypeScript       12 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+HTML             12 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Java             9 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
--->
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
