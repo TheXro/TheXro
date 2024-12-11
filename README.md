@@ -74,13 +74,13 @@ Here are some ideas to get you started:-->
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 256 hrs 1 min
+Total Time: 256 hrs 43 mins
 
-JavaScript       180 hrs 41 mins █████████████████▒░░░░░░░   68.94 %
-CSS              16 hrs 15 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-TypeScript       12 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-HTML             12 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Java             9 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+JavaScript       181 hrs 13 mins █████████████████▒░░░░░░░   68.86 %
+CSS              16 hrs 15 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+TypeScript       12 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+HTML             12 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Java             9 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
