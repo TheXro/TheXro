@@ -72,17 +72,76 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2048%20mins-blue)
 
-```rust
-Total Time: 257 hrs 53 mins
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-JavaScript       181 hrs 59 mins █████████████████▒░░░░░░░   68.73 %
-CSS              16 hrs 19 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-TypeScript       12 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-HTML             12 hrs 30 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Java             9 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+**🐱 My GitHub Data** 
+
+> 📦 69.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 181 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 84 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+🌆 Daytime                250 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+🌃 Evening                620 commits         █████████████░░░░░░░░░░░░   53.08 % 
+🌙 Night                  274 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Tuesday                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Wednesday                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Friday                   385 commits         ████████░░░░░░░░░░░░░░░░░   32.96 % 
+Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               36 repos            ████████████████░░░░░░░░░   62.07 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/01/2025 13:50:38 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
