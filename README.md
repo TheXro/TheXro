@@ -58,9 +58,9 @@ Here are some ideas to get you started:-->
     
   </p>
   
- <summary><h2>📊 Github Stats and Activity</h2></summary>
+<!--  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheXro&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheXro&theme=tokyonight) -->
 
 <!-- GitHub Readme Streak Stats - https://github.com/TheXro/github-readme-streak-stats 
   <p>
