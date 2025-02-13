@@ -72,15 +72,13 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-734.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 69.8 kB Used in GitHub's Storage 
- > 
-> 🏆 195 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,16 +113,16 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 16 mins       ███████████████████░░░░░░   77.31 % 
-Java                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    8 hrs 46 mins       ████████████████████░░░░░   79.30 % 
+Java                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Firefox                  5 hrs 16 mins       ███████████████████░░░░░░   77.31 % 
-VS Code                  1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Firefox                  8 hrs 46 mins       ████████████████████░░░░░   79.30 % 
+VS Code                  2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
 
 💻 Operating System: 
-Linux                    6 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +142,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2025 18:45:54 UTC
+ Last Updated on 13/02/2025 18:46:15 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
