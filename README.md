@@ -72,7 +72,7 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-734.1%20thousand%20lines%20of%20code-blue)
 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:-->
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 84 Public Repositories 
+> 📜 85 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -113,16 +113,16 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 46 mins       ████████████████████░░░░░   79.30 % 
-Java                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    13 hrs 5 mins       █████████████████████░░░░   82.24 % 
+Java                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Firefox                  8 hrs 46 mins       ████████████████████░░░░░   79.30 % 
-VS Code                  2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Firefox                  13 hrs 5 mins       █████████████████████░░░░   82.24 % 
+VS Code                  2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 
 💻 Operating System: 
-Linux                    11 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,7 +142,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:46:15 UTC
+ Last Updated on 14/02/2025 18:44:54 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
