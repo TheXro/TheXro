@@ -72,13 +72,13 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2045%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-734.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 69.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 196 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,45 +86,6 @@ Here are some ideas to get you started:-->
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-🌆 Daytime                250 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌃 Evening                622 commits         █████████████░░░░░░░░░░░░   52.62 % 
-🌙 Night                  285 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Tuesday                  117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Wednesday                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Thursday                 102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Friday                   388 commits         ████████░░░░░░░░░░░░░░░░░   32.83 % 
-Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    13 hrs 5 mins       █████████████████████░░░░   82.24 % 
-Java                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🔥 Editors: 
-Firefox                  13 hrs 5 mins       █████████████████████░░░░   82.24 % 
-VS Code                  2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-
-💻 Operating System: 
-Linux                    15 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -142,7 +103,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2025 18:44:54 UTC
+ Last Updated on 15/02/2025 18:41:46 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
