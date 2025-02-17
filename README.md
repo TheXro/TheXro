@@ -72,13 +72,15 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-736.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 69.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 197 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,18 +115,18 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    19 hrs 40 mins      ██████████████████████░░░   86.49 % 
-Java                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    20 hrs 5 mins       ████████████████████░░░░░   80.89 % 
+Java                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+TypeScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TSConfig                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Firefox                  19 hrs 40 mins      ██████████████████████░░░   86.49 % 
-VS Code                  3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Firefox                  20 hrs 5 mins       ████████████████████░░░░░   80.89 % 
+VS Code                  4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 
 💻 Operating System: 
-Linux                    22 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +146,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 18:42:27 UTC
+ Last Updated on 17/02/2025 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
