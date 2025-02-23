@@ -72,7 +72,7 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-745.6%20thousand%20lines%20of%20code-blue)
 
@@ -84,7 +84,7 @@ Here are some ideas to get you started:-->
  > 
 > 📜 86 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -113,18 +113,18 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 hrs 34 mins      ████████████████░░░░░░░░░   62.54 % 
-Java                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-JavaScript               3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-TypeScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    13 hrs 59 mins      ████████████░░░░░░░░░░░░░   48.27 % 
+JavaScript               8 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+Java                     4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+TypeScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Firefox                  16 hrs 33 mins      ████████████████░░░░░░░░░   62.51 % 
-VS Code                  9 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.49 % 
+VS Code                  15 hrs              █████████████░░░░░░░░░░░░   51.78 % 
+Firefox                  13 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.22 % 
 
 💻 Operating System: 
-Linux                    26 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +144,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:42:41 UTC
+ Last Updated on 23/02/2025 18:42:41 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
