@@ -72,15 +72,13 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.5 kB Used in GitHub's Storage 
- > 
-> 🏆 244 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,17 +113,16 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 31 mins      █████████████████████████   99.76 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               9 hrs 39 mins       █████████████████████████   99.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +142,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 18:48:52 UTC
+ Last Updated on 16/04/2025 18:49:38 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
