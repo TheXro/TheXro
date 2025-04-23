@@ -72,13 +72,15 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 284 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,15 +115,15 @@ Sunday                   299 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        █████████████████████████   98.31 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript               1 hr 57 mins        █████████████████████████   98.64 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +143,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 18:49:40 UTC
+ Last Updated on 23/04/2025 18:51:48 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
