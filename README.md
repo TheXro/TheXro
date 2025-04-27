@@ -72,7 +72,7 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -115,15 +115,17 @@ Sunday                   299 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               45 mins             ████████████████████████░   96.67 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               3 hrs 9 mins        ████████████████████████░   97.35 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,7 +145,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2025 18:45:39 UTC
+ Last Updated on 27/04/2025 18:46:09 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
