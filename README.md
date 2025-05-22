@@ -72,13 +72,15 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%205%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 87.3 kB Used in GitHub's Storage 
  > 
-> 🏆 273 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,6 +88,42 @@ Here are some ideas to get you started:-->
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+🌆 Daytime                264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+🌃 Evening                818 commits         ██████████████░░░░░░░░░░░   57.00 % 
+🌙 Night                  318 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Tuesday                  137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Friday                   400 commits         ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Saturday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Sunday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +141,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:50:52 UTC
+ Last Updated on 22/05/2025 18:50:38 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
