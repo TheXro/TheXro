@@ -72,7 +72,7 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:-->
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 89 Public Repositories 
+> 📜 90 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -113,23 +113,23 @@ Sunday                   284 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               58 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               37 repos            ███████████████░░░░░░░░░░   58.73 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               38 repos            ███████████████░░░░░░░░░░   59.38 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
@@ -139,7 +139,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2025 18:52:21 UTC
+ Last Updated on 25/06/2025 18:53:03 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
