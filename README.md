@@ -78,7 +78,9 @@ Here are some ideas to get you started:-->
 
 **🐱 My GitHub Data** 
 
-> 📦 133.2 kB Used in GitHub's Storage 
+> 📦 133.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 292 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,7 +143,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 18:51:50 UTC
+ Last Updated on 04/07/2025 18:50:37 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
