@@ -80,8 +80,6 @@ Here are some ideas to get you started:-->
 
 > 📦 133.1 kB Used in GitHub's Storage 
  > 
-> 🏆 292 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 90 Public Repositories 
@@ -115,14 +113,13 @@ Sunday                   284 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               38 mins             █████████████████████████   99.22 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,7 +139,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:52:29 UTC
+ Last Updated on 08/07/2025 18:53:31 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
