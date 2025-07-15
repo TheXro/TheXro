@@ -78,15 +78,13 @@ Here are some ideas to get you started:-->
 
 **🐱 My GitHub Data** 
 
-> 📦 133.2 kB Used in GitHub's Storage 
- > 
-> 🏆 292 Contributions in the Year 2025
+> 📦 133.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 90 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -127,11 +125,11 @@ Linux                    10 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               38 repos            ███████████████░░░░░░░░░░   59.38 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JavaScript               38 repos            ███████████████░░░░░░░░░░   58.46 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
@@ -141,7 +139,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 18:56:19 UTC
+ Last Updated on 15/07/2025 18:55:53 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
