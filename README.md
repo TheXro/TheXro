@@ -80,6 +80,8 @@ Here are some ideas to get you started:-->
 
 > 📦 133.8 kB Used in GitHub's Storage 
  > 
+> 🏆 293 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 90 Public Repositories 
@@ -139,7 +141,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2025 18:55:45 UTC
+ Last Updated on 18/07/2025 18:54:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
