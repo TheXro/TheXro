@@ -72,15 +72,11 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2056%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 133.9 kB Used in GitHub's Storage 
- > 
-> 🏆 294 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,42 +84,6 @@ Here are some ideas to get you started:-->
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-🌆 Daytime                278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-🌃 Evening                822 commits         ██████████████░░░░░░░░░░░   56.57 % 
-🌙 Night                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Thursday                 116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Friday                   410 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Saturday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Sunday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -141,7 +101,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 18:47:47 UTC
+ Last Updated on 30/08/2025 18:45:47 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
