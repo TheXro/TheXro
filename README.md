@@ -86,6 +86,42 @@ Here are some ideas to get you started:-->
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+🌆 Daytime                278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌃 Evening                820 commits         ██████████████░░░░░░░░░░░   56.63 % 
+🌙 Night                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Tuesday                  141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Wednesday                223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Friday                   409 commits         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Saturday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Sunday                   287 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +139,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 18:45:45 UTC
+ Last Updated on 02/11/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
