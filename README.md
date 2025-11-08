@@ -72,7 +72,7 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-813.6%20thousand%20lines%20of%20code-blue)
 
@@ -115,14 +115,14 @@ Sunday                   287 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               25 mins             ████████████████████████░   95.30 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+TypeScript               1 hr                ████████████████████████░   97.95 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Cursor                   27 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,7 +142,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2025 18:48:19 UTC
+ Last Updated on 08/11/2025 18:47:26 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
