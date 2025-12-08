@@ -115,15 +115,13 @@ Sunday                   287 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 32 mins             ████████████████████░░░░░   78.06 % 
-TypeScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,7 +141,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 18:48:34 UTC
+ Last Updated on 08/12/2025 18:53:45 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
