@@ -72,8 +72,6 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2035%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-813.65%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -88,42 +86,6 @@ Here are some ideas to get you started:-->
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-🌆 Daytime                278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-🌃 Evening                822 commits         ██████████████░░░░░░░░░░░   56.69 % 
-🌙 Night                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Tuesday                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Wednesday                223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Friday                   409 commits         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Saturday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Sunday                   287 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -141,7 +103,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:53:55 UTC
+ Last Updated on 02/01/2026 18:53:01 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
