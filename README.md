@@ -72,6 +72,8 @@ Here are some ideas to get you started:-->
   </p>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2015%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-856.59%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -86,6 +88,42 @@ Here are some ideas to get you started:-->
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+🌆 Daytime                871 commits         █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌃 Evening                1287 commits        █████████████░░░░░░░░░░░░   50.81 % 
+🌙 Night                  342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Tuesday                  153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Wednesday                240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Thursday                 698 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Friday                   699 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Saturday                 111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Sunday                   451 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +141,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheXro/TheXro/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:02:24 UTC
+ Last Updated on 03/02/2026 19:27:50 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thexro)
